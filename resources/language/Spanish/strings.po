@@ -1,7 +1,7 @@
 # Kodi Media Center language file
 # Addon Name: Elementum
 # Addon id: plugin.video.elementum
-# Addon Provider: elgatito
+# Addon Provider: masQelec
 #
 msgid ""
 msgstr ""
